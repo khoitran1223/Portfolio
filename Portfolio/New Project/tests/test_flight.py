@@ -12,7 +12,7 @@ class Testflight():
         ut = Ultis()
 
         lp.DepartureFrom(DepartureLocation="SGN")
-        lp.Location(Location="HHAN")
+        lp.Location(Location="PPUS")
         lp.TicketQuantities(Tikets=4)
         lp.Date(DepartureDate="2023/11/23")
         lp.ClickSearch()
